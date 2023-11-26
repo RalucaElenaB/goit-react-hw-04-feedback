@@ -18,7 +18,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-size: 24px;
   border-radius: 25px;
-  background-image: url(./images/cafea.png);
+  /* background-image: url(./images/cafea.png); */
+  background-color: rgba(245, 232, 244, 0.5);
   background-size: cover;
   height: 1250px;
 }
